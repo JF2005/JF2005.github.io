@@ -27,6 +27,22 @@ body {
   color: $darkGray;
 }
 
+.table-title {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.main-table {
+  width: 100%
+}
+
+.date {
+  text-align: right;
+  color: #777;
+}
+
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -113,6 +129,41 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+table {
+  border-radius: 5px;
+  border-collapse: collapse;
+	border-radius: 25px;
+  align: right;
+}
+
+table, th, td {
+	background: none;
+
+}
+
+td {
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
+th {
+  color: #0d6fe0;
+  background: none;
+  height:50px;
+  vertical-align: middle;
+  display: none;
+}
+
+div.vid {
+    width: 560px;
+    height: 340px;
+    margin: 0 auto;
+}
+
+iframe{
+	width: 100%;
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
