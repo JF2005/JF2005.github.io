@@ -18,6 +18,10 @@ html {
 }
 
 body {
+	 padding-top: 15%;
+  @include mobile {
+    padding-top: 11em;
+  }	
 	background: white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
