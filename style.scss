@@ -27,46 +27,12 @@ body {
   color: $darkGray;
 }
 
-.table-title {
-  text-align: left;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-.main-table {
-  width: 100%
-}
-
-.date {
-  text-align: right;
-  color: #777;
-}
-
-
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
-
-.wrapper-masthead {
-  position: fixed;
-  top: 0;
-  width: 125%;
-  left: -15%;
-  corner-radius: 0;
-  opacity: 0.9;
-  background: #CCC;
-}
-
-.masthead {
-  padding-top: 1%;
-  padding-left: 2.5%;
-  padding-right: 2.5%;
-  padding-bottom: 1%;
-}
-
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -147,41 +113,6 @@ strong, b {
 img {
   max-width: 100%;
 }
-
-table {
-  border-radius: 5px;
-  border-collapse: collapse;
-	border-radius: 25px;
-  align: right;
-}
-
-table, th, td {
-	background: none;
-
-}
-
-td {
-   vertical-align: middle; 
-   padding: 10px;
-}	
-
-th {
-  color: #0d6fe0;
-  background: none;
-  height:50px;
-  vertical-align: middle;
-  display: none;
-}
-
-div.vid {
-    width: 560px;
-    height: 340px;
-    margin: 0 auto;
-}
-
-iframe{
-	width: 100%;
-
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
