@@ -27,6 +27,15 @@ body {
   color: $darkGray;
 }
 
+.main-table {
+  width: 100%
+}
+
+.date {
+  text-align: right;
+  color: #777;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
