@@ -10,8 +10,7 @@ published: true
   <tr>
     <td>Title</td>
     <td>Github Blog 1</td>
-    <td>Date</td>
-    <td>06/09/18</td>
+    <td class = "date">06/09/18</td>
   </tr>
 </table>
 
