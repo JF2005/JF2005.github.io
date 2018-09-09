@@ -6,7 +6,7 @@ permalink: /github-blog-1/
 source-id: 1StXoiDDX0exr6pyOd2HzVB8sTSdLSadK4cq4oGIstQY
 published: true
 ---
-<table>
+<table class = "main-table">
   <tr>
     <td>Title</td>
     <td>Github Blog 1</td>
