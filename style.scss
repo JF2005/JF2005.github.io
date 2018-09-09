@@ -280,9 +280,9 @@ iframe{
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 35px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 28px;
 
   @include mobile {
     float: none;
