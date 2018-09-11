@@ -44,7 +44,7 @@ body {
 }
 
 #main {
-  background: rgba(209,209,209,0.8);
+  //background: rgba(209,209,209,0.8);
   border-radius: 15px
 }
 
@@ -317,13 +317,15 @@ nav {
 //
 
 .posts > .post {
+  border-radius: 5px;
+  background: $gray;
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  //border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  //border-bottom: none;
 }
 
 .post {
