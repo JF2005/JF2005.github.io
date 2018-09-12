@@ -22,7 +22,7 @@ body {
   @include mobile {
     padding-top: 11em;
   }	
-	background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Cool-background-pictures-space-hd-PIC-WPD0010427.jpg);
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
