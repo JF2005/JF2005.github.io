@@ -34,7 +34,6 @@ published: true
 <table class = "super-awesome-table">
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td></td>
   </tr>
   <tr>
     <td>Persevering</td>
@@ -60,20 +59,16 @@ published: true
 
 <table class = "main-table"/>
   <tr>
-    <td>What could have gone better in your learning?</td>
-    <td></td>
+    <td>What could have gone better in your learning?</td>    
   </tr>
   <tr>
     <td>I think that my working could have gone better if I had been a it more concentrated upon my work and what I was doing as I think that I did spend a bit too much time helping other people and talking with them. This meant that I was distracted from my work and couldn’t put my full attention towards it and that meant that my work could have been better as I might have worked quicker than I did and had been able to get more done. Also I feel that my work could have been more planned out and structured which would have meant that I would always know what I was doing and what I should do next and would mean that I would have worked more logically and effectively.</td>
-    <td></td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
   </tr>
   <tr>
     <td>So next time I need to stay more focussed upon my work and concentrate upon it as much as I can as to maximise my learning. Of course I am not suggesting that I will completely ignore everybody around even when they are asking for assistance but instead trying to avoid me not doing work for a reason unrelated to what I was doing such as talking about something not to do with coding or school at all. Also next lesson I am going to try to be more structured in my working and in what I was doing and think about the whole lesson plan before I start working.</td>
-    <td></td>
   </tr>
 </table>
 
