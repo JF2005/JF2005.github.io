@@ -73,7 +73,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #b6b6b6;
   font-weight: bold;
 
   line-height: 1.7;
@@ -152,9 +152,7 @@ img {
 }
 	  
 table {
-  border-radius: 5px;
   border-collapse: collapse;
-	border-radius: 25px;
   align: right;
   width: 100%;
 }
