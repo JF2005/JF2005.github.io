@@ -15,7 +15,7 @@ published: true
 </table>
 
 
-<table>
+<table class = "super-awesome-table">
   <tr>
     <td>Starting point:</td>
     <td>This is my first lesson of Year 9 and so I was at the very start with a lot of work ahead of me. </td>
@@ -31,7 +31,7 @@ published: true
 </table>
 
 
-<table>
+<table class = "super-awesome-table">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
@@ -56,6 +56,9 @@ published: true
     <td>Engagement</td>
     <td>I did use this learning habit when I was engaged in conversation with my fellow students when we asked each other questions about how to code something.</td>
   </tr>
+<table/>  
+
+<table class = "main-table"/>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
