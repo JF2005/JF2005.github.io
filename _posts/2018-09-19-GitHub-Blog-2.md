@@ -8,7 +8,7 @@ published: true
 ---
 <table class = "that-annoying-date-table">
   <tr>
-    <td class = "main-table">17/09/18</td>
+    <td>17/09/18</td>
   </tr>
 </table>  
 
