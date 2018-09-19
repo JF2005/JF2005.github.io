@@ -57,7 +57,7 @@ published: true
   </tr>
 </table>  
 
-<table class = "main-table">
+<table class = "main-table-bottom">
   <tr>
     <td>What could have gone better in your learning?</td>
   </tr>
