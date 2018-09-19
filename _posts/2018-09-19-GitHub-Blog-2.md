@@ -6,7 +6,7 @@ permalink: /github-blog-2/
 source-id: 1M9Bpk_uFv6YuE_qOZkOQcksgCoLfXSDXf-Tf5H2U_YI
 published: true
 ---
-17/09/18
+<tr class= "date">17/09/18</tr>
 
 <table>
   <tr>
