@@ -36,7 +36,7 @@ body {
 .that-annoying-date-table{
 	background: rgba(209,209,209,0.87);
 	border-top-left-radius: 15px;
-	border-top-left-radius: 15px
+	border-top-right-radius: 15px;
 } 
 	
 .that-one-line{
@@ -51,6 +51,8 @@ body {
 .main-table-bottom {
   width: 100%;
   background: rgba(209,209,209,0.87);
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
 }
 
 .date {
