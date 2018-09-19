@@ -33,7 +33,7 @@ published: true
 
 <table class = "super-awesome-table">
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <td class = "that-one-line">How did you use your learning habits this week?</td>
   </tr>
   <tr>
     <td>Persevering</td>
