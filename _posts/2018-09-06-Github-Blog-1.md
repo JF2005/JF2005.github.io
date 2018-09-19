@@ -31,10 +31,13 @@ published: true
 </table>
 
 
-<table class = "super-awesome-table">
+<table class = "main-table">
   <tr>
-    <td class = "that-one-line">How did you use your learning habits this week?</td>
+    <td>How did you use your learning habits this week?</td>
   </tr>
+<table/>  
+  
+<table class = "super-awesome-table">  
   <tr>
     <td>Persevering</td>
     <td>I did not really use this learning habit much as I didn't really encounter many problems this lesson but I am sure that I will be using this learning habit a lot later on.</td>
