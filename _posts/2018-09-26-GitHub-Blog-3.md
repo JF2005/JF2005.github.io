@@ -6,9 +6,13 @@ permalink: /github-blog-3/
 source-id: 1DUuuQ8MwV7KW1lDB5oilnUCZc26JrmfyaW0iZeNZkFI
 published: true
 ---
-**_23/09/18_**
+<table class = "that-annoying-table">
+  <tr>
+    <td>23/09/18</td>
+  </tr>
+</table>    
 
-<table>
+<table class = "super-awesome-table">
   <tr>
     <td>Starting point:</td>
     <td>This is my third lesson into the term and for the last since the last lesson we have been expanding our abilities in and with spreadsheets. It turns out that in my last lesson I had done all of the work that we were supposed to be doing this lesson sdo for this lesson I would be starting ahead of everybody. </td>
@@ -24,7 +28,7 @@ published: true
 </table>
 
 
-<table>
+<table class = "main-table">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
