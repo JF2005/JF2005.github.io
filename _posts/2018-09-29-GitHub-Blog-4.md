@@ -6,7 +6,7 @@ permalink: /github-blog-4/
 source-id: 1QLZRC3gpehEGcADNA2lu5ufLubt5kSLuXfIDZO9bhQU
 published: true
 ---
-<table class = "that-annoying-table">
+<table class = "that-annoying-date-table">
   <tr>
     <td>28/09/18</td>
   </tr>
