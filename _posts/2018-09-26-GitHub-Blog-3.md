@@ -55,15 +55,15 @@ published: true
     <td>Engagement</td>
     <td>I had to engage with other people when they asked me questions about how they would do the work that they were doing and I helped them a bit so that they didn’t get so stuck that they weren’t learning anything.</td>
   </tr>
+</table>
+
+<table class = "main-table">    
   <tr>
     <td>What could have gone better in your learning?</td>
   </tr>
   <tr>
     <td>I think that in this lesson I didn’t spend enough time continuously fully focusing on the work at hand as sometimes I would be interrupted by someone else who would ask me a question about the work they had to do or I would be having a conversation with the person next to me about something that wouldn’t be helping me on my work. I think that this meant that I didn’t have the capability to properly reflect on my work and find an answer as I was to preoccupied and wasn’t focused continuously for enough time. If I had stayed focused on my work  and the problem I had encountered I could have found the solution before the lesson had finished.</td>
-  </tr>
-</table>  
-  
-<table class = "main-table">  
+  </tr>  
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
   </tr>
