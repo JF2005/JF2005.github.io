@@ -33,6 +33,9 @@ published: true
     <td>How did you use your learning habits this week?</td>
     <td></td>
   </tr>
+</table>
+
+<table class = "super-awesome-table">
   <tr>
     <td>Persevering</td>
     <td>I had to use persevering a bit as at first I struggled to find the correct information that I wanted to use as I only wanted the binary form and so I had to preserve a little to find the correct information. Also I had to persevere to try and find a solution to my problem of decoding my encoded message. Sadly, as you know, I did not manage to find a solution to this problem in the lesson.</td>
@@ -61,6 +64,9 @@ published: true
     <td>I think that in this lesson I didn’t spend enough time continuously fully focusing on the work at hand as sometimes I would be interrupted by someone else who would ask me a question about the work they had to do or I would be having a conversation with the person next to me about something that wouldn’t be helping me on my work. I think that this meant that I didn’t have the capability to properly reflect on my work and find an answer as I was to preoccupied and wasn’t focused continuously for enough time. If I had stayed focused on my work  and the problem I had encountered I could have found the solution before the lesson had finished.</td>
     <td></td>
   </tr>
+</table>  
+  
+<table class = "main-table">  
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
     <td></td>
