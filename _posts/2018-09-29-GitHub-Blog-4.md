@@ -6,9 +6,13 @@ permalink: /github-blog-4/
 source-id: 1QLZRC3gpehEGcADNA2lu5ufLubt5kSLuXfIDZO9bhQU
 published: true
 ---
-**_28/09/18_**
+<table class = "that-annoying-table">
+  <tr>
+    <td>28/09/18</td>
+  </tr>
+</table>
 
-<table>
+<table class = "super-awesome-table">
   <tr>
     <td>Starting point:</td>
     <td>This is my fourth lesson of this half term on the topic of encryption. Last lesson I was working on coding letters into their corresponding ascii code and then decoding the encoded ascii message back into the correct text. This lesson I was continuing with this same task however last time I ran into a problem which I didn't know how to solve.</td>
@@ -24,11 +28,13 @@ published: true
 </table>
 
 
-<table>
+<table class = "main-table">
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td></td>
   </tr>
+</table>  
+  
+<table class = "super-awesome-table">  
   <tr>
     <td>Persevering</td>
     <td>I had to try and persevere when I encounter a problem instead of giving up, deleting all of my work and starting again as that would get me nowhere whereas if I persevere I would eventually reach my solution.
@@ -54,17 +60,18 @@ published: true
     <td>I had to listen to what my teacher told the class so that I completely understood and knew what I was doing. Also, I had to engage in conversation with my fellow pupils when either they asked me a question about the work or when I wanted to ask them a question.
 </td>
   </tr>
+</table>
+
+<table class = "main-table-bottom">
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
     <td>I think that my lesson could have gone better if I had at times tried to 'take a step back’  and really look at all of my work fully and when I say all of my work I mean from all of the stuff I had just done to all the things I had done in the first cryptography lesson. I believe that if I had done that I would have been able to see some of the mistakes I had made along the way a lot quicker but also I believe it would help me find the solution to my problems faster. If I had done this and it had had the effect that I said it would have had this would mean that I would have had more time in the lesson to do more work and learn more and also I believe that it would help deepen my understanding of how to use spreadsheets and my capabilities on it.</td>
-    <td></td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
   </tr>
   <tr>
     <td>So, next lesson I believe that I will need to try and ‘take a step back’ to help see the whole picture more as to try and find if I had found a way around a certain problem in an earlier lesson even if it was without realising and if so how I had done it. Also next lesson I think that I need to try and reflect more upon my work as I believe that it will help consolidate and deepen my understanding of our current topic.</td>
