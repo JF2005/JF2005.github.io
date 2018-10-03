@@ -31,7 +31,6 @@ published: true
 <table class = "main-table">
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td></td>
   </tr>
 </table>
 
@@ -58,22 +57,18 @@ published: true
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
   </tr>
   <tr>
     <td>I think that in this lesson I didn’t spend enough time continuously fully focusing on the work at hand as sometimes I would be interrupted by someone else who would ask me a question about the work they had to do or I would be having a conversation with the person next to me about something that wouldn’t be helping me on my work. I think that this meant that I didn’t have the capability to properly reflect on my work and find an answer as I was to preoccupied and wasn’t focused continuously for enough time. If I had stayed focused on my work  and the problem I had encountered I could have found the solution before the lesson had finished.</td>
-    <td></td>
   </tr>
 </table>  
   
 <table class = "main-table">  
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
   </tr>
   <tr>
     <td>So, next time I think that I need to try and stay focused on my work continuously without interruption for longer amounts of time as I think that if I do this I will actually have the time to properly reflect on and think about my work and this will allow me to do better quality and more work within the time limits of the lesson. </td>
-    <td></td>
   </tr>
 </table>
 
